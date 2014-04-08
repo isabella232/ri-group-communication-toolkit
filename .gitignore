@@ -4,4 +4,4 @@ build
 dist
 venv
 .DS_Store
-rapid_response_kit/utils/config.py
+rapid_response_kit/utils/local_config.py
